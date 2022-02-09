@@ -1,4 +1,4 @@
-package BuildingUtil;
+package Utils;
 
 import Buildings.Building;
 import Buildings.Home;

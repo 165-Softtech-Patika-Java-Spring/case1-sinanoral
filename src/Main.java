@@ -1,4 +1,4 @@
-import BuildingUtil.BuildingUtil;
+import Utils.BuildingUtil;
 import Buildings.Building;
 import Services.BuildingService;
 
